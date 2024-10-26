@@ -1,4 +1,4 @@
-<img src="/static/wordlists.png" alt="Wordlists(light)" width="675px">
+<img src="static/wordlists.png" alt="Wordlists(light)" width="675px">
 
 Wordlists - Web dir/path discovery 
 =========
