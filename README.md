@@ -1,2 +1,11 @@
-# Wordlists
-Wordlists for web security testing. The lists include common web directories, file names, and other valuable resources to help you identify vulnerabilities and strengthen your website's security
+<img src="static/wordlists.png" alt="dirsearch logo (light)" width="675px">
+
+Wordlists - Web dir/path discovery 
+=========
+
+![Stars](https://img.shields.io/github/stars/4q-u4/Wordlists.svg)
+[![Release](https://img.shields.io/github/release/4q-u4/Wordlists.svg)](https://github.com/4q-u4/Wordlists/releases)
+
+*Reach out to [Telegram](https://t.me/aq_u4) for communication*
+
+
