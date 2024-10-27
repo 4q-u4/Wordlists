@@ -1,4 +1,4 @@
-<img src="static/wordlists.png" alt="Wordlists(light)" width="675px">
+<img src="[static/wordlists.png](https://github.com/4q-u4/Wordlists-Web-Directories/blob/main/static/Wordlists.png)" alt="Wordlists(light)" width="675px">
 
 Wordlists - Web dir/path discovery 
 =========
